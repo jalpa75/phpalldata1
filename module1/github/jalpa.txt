@@ -1,0 +1,17 @@
+stop1:  crtate an acount on github com.
+https : // github. com/
+ stop2: login with qithub 
+stop3: crtate on repository 
+         https: //github.com /jalpa75/phpalldata.git
+stop4: how to upoab local pc data on github sever using command 
+sotp5: github command to upload file 
+sotp6 : download git software 
+            open gitbash 
+cmd1: git init 
+cmd2: git add.
+cmd3:git commit -m'20-04-2023data uploaded successfully'
+cmd4:git remote add origin https ://github.com/ jalpa75/phplldata.git
+cmd5: git push - u orign master 
+
+
+
